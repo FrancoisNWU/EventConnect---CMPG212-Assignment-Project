@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40723380_Verster_CMPG212_Exam", "40723380_Verster_CMPG212_Exam.csproj", "{0F2CED96-67F6-4F6A-B868-F26D0098D130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2CED96-67F6-4F6A-B868-F26D0098D130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2CED96-67F6-4F6A-B868-F26D0098D130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2CED96-67F6-4F6A-B868-F26D0098D130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2CED96-67F6-4F6A-B868-F26D0098D130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FB8703A-73C0-4626-B008-C2897636EFAF}
+	EndGlobalSection
+EndGlobal
